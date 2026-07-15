@@ -1,0 +1,7 @@
+export { default as Hero } from '../Hero'
+export { default as HeroBadge } from './HeroBadge'
+export { default as HeroButtons } from './HeroButtons'
+export { default as HeroStats } from './HeroStats'
+export { default as AIChatPreview } from './AIChatPreview'
+export { default as HeroBackground } from './HeroBackground'
+export * from './types'
